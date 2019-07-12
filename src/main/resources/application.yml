@@ -4,7 +4,7 @@ dubbo:
   application:
     name: boot-order-consumer
   registry:
-    address: zookeeper://47.106.182.44:2181,zookeeper://47.106.182.44:2182,zookeeper://47.106.182.44:2183
+    address: zookeeper://47.106.182.44:2181
   protocol:
     name: dubbo
   monitor:
